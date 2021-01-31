@@ -1,0 +1,2 @@
+*{font-family:"Gill Sans","Gill Sans MT",Calibri,"Trebuchet MS",sans-serif}body{padding-left:60px}input{font-size:1.3rem;width:90%;color:grey}.card-grid{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;margin-top:25px}.card{display:flex;flex-direction:column;align-content:center;border:1px solid #000;border-radius:10px;margin-bottom:10px;margin-right:20px;overflow:hidden;min-width:275px;max-width:275px}.card p{padding:5px;text-align:center}.card img{max-height:170px}
+/*# sourceMappingURL=main.56d2d13a.chunk.css.map */
